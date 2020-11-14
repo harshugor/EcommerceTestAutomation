@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.038074">
+<testcase classname="Customer Orders product from Website" name="Customer add dress to cart and register the email and check out" time="0.038074">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given customer is on homepage...............................................undefined
+When customer hovers on "Women".............................................undefined
+And customer click on "Summer Dresses" button...............................undefined
+And customer hover on "Printed Summer Dress" button.........................undefined
+Then customer click on Quick view button....................................undefined
+And customer can select size "S"............................................undefined
+And customer click on Add to cart button....................................undefined
+When customer click on "Continue shopping" button...........................undefined
+Then customer hovers on Cart button.........................................undefined
+And customer click on "Check out" button....................................undefined
+When customer click Proceed to checkout button..............................undefined
+And customer can add email to register......................................undefined
+And customer click on Create an account button..............................undefined
+Then customer fills all mandatory fields....................................undefined
+And customer click on Register button.......................................undefined
+When customer click Proceed to checkout button on Address page..............undefined
+Then customer selects agree to terms and service............................undefined
+When customer click Proceed to checkout button on Shipping page.............undefined
+And customer can verify the product description as "Printed Summer Dress"...undefined
+And customer can verify product cost and total amount.......................undefined
+]]></failure>
+</testcase>
+</testsuite>
